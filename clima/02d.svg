@@ -1,0 +1,20 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient y2="0.933" y1="0.067" x2="0.75" x1="0.25" id="a">
+   <stop stop-color="#fbbf24" offset="0"/>
+   <stop stop-color="#fbbf24" offset="0.45"/>
+   <stop stop-color="#f59e0b" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="1.19624" y1="0.1269" x2="0.66712" x1="0.27977" id="c">
+   <stop stop-color="#f3f7fe" offset="0"/>
+   <stop stop-color="#f3f7fe" offset="0.45"/>
+   <stop stop-color="#deeafb" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <circle id="svg_1" stroke-width="0.5" stroke-miterlimit="10" stroke="#f8af18" fill="url(#a)" r="5" cy="24" cx="19"/>
+  <path id="svg_2" d="m19,15.67l0,-3.17m0,23l0,-3.17m5.89,-14.22l2.24,-2.24m-16.26,16.26l2.24,-2.24m0,-11.78l-2.24,-2.24m16.26,16.26l-2.24,-2.24m-17.39,-5.89l3.17,0m19.83,0l-3.17,0" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke="#fbbf24" fill="none"/>
+  <path id="svg_4" d="m46.5,31.5l-0.32,0a10.49,10.49 0 0 0 -19.11,-8a7,7 0 0 0 -10.57,6a7.21,7.21 0 0 0 0.1,1.14a7.5,7.5 0 0 0 1.4,14.86a4.19,4.19 0 0 0 0.5,0l0,0l28,0a7,7 0 0 0 0,-14z" stroke-width="0.5" stroke-miterlimit="10" stroke="#e6effc" fill="url(#c)"/>
+ </g>
+</svg>
